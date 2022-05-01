@@ -1,5 +1,7 @@
 ## Github No-upload list
 node_modules/
+.env
+.env.test
 
 # Logs
 logs

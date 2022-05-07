@@ -6,4 +6,4 @@ Apollo Server, GraphQL, React의 콜라보로 만들어진 미니 SNS 서비스�
 [2022-05-01 23:21] Prisma Migrate  
 [2022-05-02 01:36] Prisma Studio import    
 [2022-05-02 23:30] Dotenv import   
-[2022-05-03 01:26] bcrypt Import   
+[2022-05-07 22:52] Hashing 작업 및 bcrypt Import   

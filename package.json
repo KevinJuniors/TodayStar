@@ -1,11 +1,12 @@
 {
   "name": "todaystar",
   "version": "1.0.0",
-  "description": "",
+  "description": "Apollo Server, GraphQL, React의 콜라보로 만들어진 미니 SNS 서비스입니다",
   "scripts": {
     "dev": "nodemon --exec babel-node server",
     "migrate": "npx prisma migrate dev",
-    "studio": "npx prisma studio"
+    "studio": "npx prisma studio",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -33,6 +34,8 @@
     "dotenv": "^16.0.0",
     "graphql": "^15.8.0",
     "graphql-tools": "^8.2.8",
+    "package.json": "^2.0.1",
     "prisma": "^3.13.0"
-  }
+  },
+  "keywords": []
 }
